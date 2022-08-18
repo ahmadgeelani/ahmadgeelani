@@ -1,25 +1,90 @@
-[![MasterHead](https://mechomotive.com/wp-content/uploads/2021/07/I6-1.gif)](https://ahmadgeelani.io)
-<h1 align="center">Hi 👋, I'm Ahmad Geelani</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Data Analyst width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
+<p align="center"><a href="#"><img width="30%" height="auto" src="https://mechomotive.com/wp-content/uploads/2021/07/I6-1.gif"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadgeelani&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadgeelani" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmad</h1>
+<h3 align="center">I'm an aspiring Data Analyst from India.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ahmadgeelani.dev.voyage](https://ahmadgeelani.dev.voyage)
+
+## 🙋‍♂️ About Me
+
+<img align="right" alt="Coding" width="300" height="175" src="https://camo.githubusercontent.com/30c5ffe56bf81306c9af85f60b1e71240939f0abf1b80541dfce8a9dd28cdde4/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
+
+- 🌱 I’m currently learning **Data Science & Analytics.**
+
+
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ahmadgeelani?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahmadgeelani" height="30" width="40" style="max-width: 100%;"></a>
+
 
 - 📫 How to reach me **ageelani007@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmad_geelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmad_geelani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmadgeelani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmadgeelani/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ahmadgeelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmadgeelani" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ahmad_geelani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmad_geelani/" height="30" width="40" /></a>
+
+- ⚡ Fun fact **I play games and go to the GYM.**
+
+
+
+## 🚀 Languages and Tools:
+
+<p align="center">  
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img width="60" height="60" src="https://img.icons8.com/clouds/2x/search-database.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img width="60" height="60" src="https://img.icons8.com/cute-clipart/2x/microsoft-word-2019.png"/></a>
+    <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadgeelani&show_icons=true&locale=en" alt="ahmadgeelani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadgeelani&" alt="ahmadgeelani" /></p>
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="https://github.com/ahmadgeelani/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmad Geelani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadgeelani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<!-- GITHUB STAT CODE -->
+
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
+
+<!-- 1st DROP DOWN -->
+
+<details>
+  <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
+ <br>
+ <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadgeelani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ahmadgeelani" ></p>
+  
+</details>
+
+<!-- 2nd DROP DOWN -->
+
+<details>
+ <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
+<br>
+  <p align="center" dir="auto">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadgeelani&theme=onedark">
+</details>
+
+<!-- 3rd DROP DOWN -->
+
+<details>
+  <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
+    <br>
+    <a href="https://github.com/ahmadgeelani/github-readme-activity-graph"><img alt="Ahmad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmadgeelani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    </details>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/ahmadgeelani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/ahmad_geelani"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/ahmad_geelani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+
