@@ -82,9 +82,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ahmadgeelani/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height = "60px"/></a>
-<a href = "https://twitter.com/ahmad_geelani"><img src="https://media.tenor.com/jDOgugYCEywAAAAM/twitter-logo.gif" height="50px" style = "border-radius:50% ; overflow:hidden" /></a>
-<a href = "https://www.instagram.com/ahmad_geelani/"><img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="60px"/></a>
+<a href = "https://www.linkedin.com/in/ahmadgeelani/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="60px"/></a>
+<a href = "https://twitter.com/ahmad_geelani"><img src="https://media.tenor.com/jDOgugYCEywAAAAM/twitter-logo.gif" height="57px"/></a>
+<a href = "https://www.instagram.com/ahmad_geelani/"><img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="60px"/></a>    
+    
+    
 
 
 
