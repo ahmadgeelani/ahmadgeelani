@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img width="30%" height="auto" src="https://mechomotive.com/wp-content/uploads/2021/07/I6-1.gif"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmad</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="30px">, I'm Ahmad</h1>
 <h3 align="center">I'm an aspiring Data Analyst from India.</h3>
 
 
