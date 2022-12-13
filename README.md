@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Data Science & Analytics.**
 
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ahmadgeelani?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahmadgeelani" height="30" width="40" style="max-width: 100%;"></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ahmadgeelani?tab=repositories"><img align="center" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="ahmadgeelani" height="30" width="40" style="max-width: 100%;"></a>
 
 
 - 📫 How to reach me **ageelani007@gmail.com**
@@ -82,9 +82,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ahmadgeelani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ahmad_geelani"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ahmad_geelani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/ahmadgeelani/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height = "60px"/></a>
+<a href = "https://twitter.com/ahmad_geelani"><img src="https://media.tenor.com/jDOgugYCEywAAAAM/twitter-logo.gif" height="50px" style = "border-radius:50% ; overflow:hidden" /></a>
+<a href = "https://www.instagram.com/ahmad_geelani/"><img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="60px"/></a>
 
 
 
