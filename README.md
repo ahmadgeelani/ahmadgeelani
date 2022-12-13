@@ -67,7 +67,7 @@
  <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
 <br>
   <p align="center" dir="auto">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadgeelani&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadgeelani&theme=alduin">
 </details>
 
 <!-- 3rd DROP DOWN -->
@@ -75,7 +75,7 @@
 <details>
   <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
     <br>
-    <a href="https://github.com/ahmadgeelani/github-readme-activity-graph"><img alt="Ahmad's Activity Graph" src="https://github-readme-activity-graph.cyclic.app//graph?username=ahmadgeelani&theme=xcode" /></a>
+    <a href="https://github.com/ahmadgeelani/github-readme-activity-graph"><img alt="Ahmad's Activity Graph" src="https://github-readme-activity-graph.cyclic.app//graph?username=ahmadgeelani&theme=rouge" /></a>
     </details>
 
 
